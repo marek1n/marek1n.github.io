@@ -1,0 +1,145 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Marek Nemecek
+# title: Senior Network System Administrator
+# email: brett.h@email.co.uk
+# website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: facespics
+# github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile_marek.png
+about_content: | # this will include new lines to allow paragraphs
+  I'm currently finishing MSc in Cognitive Neuroscience at the Berlin School of Mind and Brain, Humboldt-Universität zu Berlin. 
+  Previously, I studied mathematical logic and received MA (Hons) in Philosophy from the University of Glasgow.
+
+
+  I'm broadly interested in finding about basic neural mechanisms through computational modelling and neuroimaging (fMRI, EEG). 
+  I also like to think about theoretical issues in neuroscience, such as incorporating 4EA approaches (affordance theory, enaction, interoception and allostatic control etc.) into current paradigms.
+
+
+  I work as student researcher at the Computation and Cognition Lab, HMU Potsdam; previously I was also at Science of Intelligence (Technische Universität Berlin) and Neural Dynamics of Visual Cognition (Freie Universität Berlin).
+  Before that, I spent a year in industry as data analyst and engineer. 
+content:
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Graduate Student Researcher
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: HMU Potsdam / Charité, TU Berlin
+        caption: April 2022 - present
+        description: | # this will include new lines to allow paragraphs
+            I collected and analyzed imaging, physiological and behavioural data, created online studies and conducted literature reviews.
+      - layout: left
+        title: Research Intern
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: FU Berlin
+        caption: February 2022 - May 2023
+        description: | # this will include new lines to allow paragraphs
+            I created a dataset and an online pilot study in preparation for a layer-fMRI study on the interaction of feedforward and feedback processing in visual recognition.
+      - layout: left
+        title: Data Analyst / Engineer
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: DataSentics
+        caption: November 2020 - December 2021
+        description: | # this will include new lines to allow paragraphs
+            some stuff i did
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: MSc Cognitive Neuroscience
+        caption: September 2021 - present
+        sub_title: Berlin School of Mind and Brain
+        description: | # this will include new lines to allow paragraphs
+          some classes i took
+      - layout: left
+        title: MA Philosophy (1st class Honours)
+        caption: September 2017 - June 2020
+        sub_title: University of Glasgow
+        description: | # this will include new lines to allow paragraphs
+          some classes i took
+      - layout: left
+        title: BA Logic
+        caption: September 2015 - June 2017
+        sub_title: Charles University, Prague
+        description: | # this will include new lines to allow paragraphs
+          some classes i took
+
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
