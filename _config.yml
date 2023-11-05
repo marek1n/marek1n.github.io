@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Previously, I studied mathematical logic and received MA (Hons) in Philosophy from the University of Glasgow.
 
 
-  I'm broadly interested in finding about basic neural mechanisms through computational modelling and neuroimaging (fMRI, EEG). 
+  I'm broadly interested in finding out about basic neural mechanisms through computational modelling and neuroimaging techniques. 
   I also like to think about theoretical issues in neuroscience, such as incorporating 4EA approaches (affordance theory, enaction, interoception and allostatic control etc.) into current paradigms.
 
 
@@ -89,6 +89,8 @@ content:
         caption: April 2022 - present
         description: | # this will include new lines to allow paragraphs
             I collected and analyzed imaging, physiological and behavioural data, created online studies and conducted literature reviews.
+
+            `Python` `MATLAB` `R` `JavaScript` `Docker` `Bash` `Slurm`
       - layout: left
         title: Research Intern
         # link: boringcompany.com
@@ -96,7 +98,10 @@ content:
         sub_title: FU Berlin
         caption: February 2022 - May 2023
         description: | # this will include new lines to allow paragraphs
-            I created a dataset and an online pilot study in preparation for a layer-fMRI study on the interaction of feedforward and feedback processing in visual recognition.
+            I created, ran and analyzed an online pilot study, including a novel large-scale two-tone (Mooney) image dataset 
+            in preparation for a laminar fMRI study on the interaction of feedforward and feedback processing in visual recognition. 
+
+            `JavaScript` `Python`
       - layout: left
         title: Data Analyst / Engineer
         # link: boringcompany.com
@@ -104,8 +109,9 @@ content:
         sub_title: DataSentics
         caption: November 2020 - December 2021
         description: | # this will include new lines to allow paragraphs
-            some stuff i did
+            Creation and maintenance of big data pipelines, development of internal software tools.
 
+            `Python` `Azure` `Spark`
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,7 +122,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           some classes i took
       - layout: left
-        title: MA Philosophy (1st class Honours)
+        title: MA Philosophy (1st Class Honours)
         caption: September 2017 - June 2020
         sub_title: University of Glasgow
         description: | # this will include new lines to allow paragraphs
@@ -126,7 +132,7 @@ content:
         caption: September 2015 - June 2017
         sub_title: Charles University, Prague
         description: | # this will include new lines to allow paragraphs
-          some classes i took
+          Classical and non-classical logics, programming and algorithms, set theory, number theory, computability etc.
 
 
 
