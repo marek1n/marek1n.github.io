@@ -142,7 +142,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Classical and non-classical logics, programming and algorithms, set theory, number theory, computability etc. (unfinished)
 
-  - title: Conferences and workshops
+  - title: Conferences, summer schools and workshops
     layout: list
     content:
       - layout: left
@@ -164,7 +164,7 @@ content:
         caption: September 2023
         sub_title: ETH Zurich / UZH
         description: |
-          Bayesian statistics and modelling summer school. Practical tutorials on variational Bayesian analysis and dynamic causal modelling (DCM for EEG).
+          Bayesian statistics and modelling summer school. Practical tutorials on variational Bayesian analysis, dynamic causal modelling (DCM) for EEG.
       - layout: left
         title: Mind Brain Body Symposium
         caption: March 2023
