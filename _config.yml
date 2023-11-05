@@ -121,7 +121,9 @@ content:
         sub_title: Berlin School of Mind and Brain
         description: | # this will include new lines to allow paragraphs
           Experimental and computational cognitive neuroscience, philosophy of cognitive science.
+          
           Neuroanatomy and neurophysiology, embodied neuroscience of language, clinical approaches etc.
+          
           Probabilistic and statistical modelling, models of neural systems, brain function and collective behaviour. 
 
       - layout: left
@@ -132,7 +134,7 @@ content:
           1st Class Honours - cognitive science, philosophy of mind, 20th century philosophy of language (Wittgenstein, Quine).
           Also attended classes in Computer Science, Mathematics, Psychology. 
 
-          Thesis *Predictive processing and conscious access* (Grade 21/22)
+          Thesis: *Predictive processing and conscious access* (Grade 21/22)
       - layout: left
         title: BA Logic
         caption: September 2015 - June 2017
@@ -148,7 +150,33 @@ content:
         caption: October 2023 - present
         sub_title: edX / Stanford Online
         description: |
-          muhehehe
+           Regression, classification, resampling methods, model selection and regularization, nonlinear models, tree-based methods, 
+           SVM, deep learning, survival analysis, PCA & clustering, multiple testing.
+      - layout: left
+        title: SCIoI Fair
+        caption: September 2023
+        sub_title: Science of Intelligence
+        description: |
+          Science communication event attended by Berlin state academic community and government officials. 
+          I created and co-presented a touchscreen application demonstrating the differences between face perception in humans and AI models. 
+      - layout: left
+        title: Computational Psychiatry Course Zurich
+        caption: September 2023
+        sub_title: ETH Zurich / UZH
+        description: |
+          Bayesian statistics and modelling summer school. Practical tutorials on variational Bayesian analysis and dynamic causal modelling (DCM for EEG).
+      - layout: left
+        title: Mind Brain Body Symposium
+        caption: March 2023
+        sub_title: Max Planck Institute for Cognitive and Brain Sciences
+        description: |
+          Poster presentation *Bringing the Colour Constancy Illusion to the fMRI Scanner*
+      - layout: left
+        title: Neuromatch Academy
+        caption: July - August 2020
+        sub_title: online
+        description: |
+          Computational neuroscience summer school. Modelling, machine learning, stochastic processes etc.
 
 
 
