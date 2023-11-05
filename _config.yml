@@ -48,7 +48,7 @@ darkmode: true
 # about_title: About Me
 about_profile_image: images/profile_marek.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm currently finishing MSc in Cognitive Neuroscience at the Berlin School of Mind and Brain, Humboldt-Universität zu Berlin. 
+  I'm currently finishing the MSc programme in Cognitive Neuroscience at the Berlin School of Mind and Brain, Humboldt-Universität zu Berlin. 
   Previously, I studied mathematical logic and received MA (Hons) in Philosophy from the University of Glasgow.
 
 
@@ -120,19 +120,36 @@ content:
         caption: September 2021 - present
         sub_title: Berlin School of Mind and Brain
         description: | # this will include new lines to allow paragraphs
-          some classes i took
+          Experimental and computational cognitive neuroscience, philosophy of cognitive science.
+          Neuroanatomy and neurophysiology, embodied neuroscience of language, clinical approaches etc.
+          Probabilistic and statistical modelling, models of neural systems, brain function and collective behaviour. 
+
       - layout: left
-        title: MA Philosophy (1st Class Honours)
+        title: MA Philosophy
         caption: September 2017 - June 2020
         sub_title: University of Glasgow
         description: | # this will include new lines to allow paragraphs
-          some classes i took
+          1st Class Honours - cognitive science, philosophy of mind, 20th century philosophy of language (Wittgenstein, Quine).
+          Also attended classes in Computer Science, Mathematics, Psychology. 
+
+          Thesis *Predictive processing and conscious access* (Grade 21/22)
       - layout: left
         title: BA Logic
         caption: September 2015 - June 2017
         sub_title: Charles University, Prague
         description: | # this will include new lines to allow paragraphs
-          Classical and non-classical logics, programming and algorithms, set theory, number theory, computability etc.
+          Classical and non-classical logics, programming and algorithms, set theory, number theory, computability etc. (unfinished)
+
+  - title: Conferences and workshops
+    layout: list
+    content:
+      - layout: left
+        title: Statistical Learning
+        caption: October 2023 - present
+        sub_title: edX / Stanford Online
+        description: |
+          muhehehe
+
 
 
 
