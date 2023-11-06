@@ -88,7 +88,7 @@ content:
         sub_title: HMU Potsdam / Charité, TU Berlin
         caption: April 2022 - present
         description: | # this will include new lines to allow paragraphs
-            I collected and analyzed imaging, physiological and behavioural data, created online studies and conducted literature reviews.
+            I collected and analyzed imaging (fMRI, EEG), physiological and behavioural data, created online studies and conducted literature reviews.
 
             `Python` `MATLAB` `R` `JavaScript` `Docker` `Bash` `Slurm`
       - layout: left
